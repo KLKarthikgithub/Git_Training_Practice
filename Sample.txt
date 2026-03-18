@@ -1,4 +1,0 @@
-This is a Sample Text file.
-This is updated by me of main branch with git bash on
-my console to check whether they are working or not 
-using git pull and push
